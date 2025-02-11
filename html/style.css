@@ -1,0 +1,238 @@
+.addressbar{
+    display:flex;
+    justify-content:center;
+    text-align: center;
+    gap: 16px;
+    background-color: white;
+    color:black;
+    }
+
+    
+    
+
+    
+.login{
+    display:flex;
+    justify-content:right;
+    color:#FD8D3A;
+    width: 44m;
+    height: 24m;
+
+}
+.signup{
+    display:flex;
+    justify-content:right;
+    
+}
+.buttonsignup{
+    background-color: #FA7436;
+    color:#ffff;
+    width: 61m;
+    height: 24m;
+}
+.content{
+    display:flex;
+    
+
+}
+span{
+    color:#FA7436;
+}
+.p{
+    display:flex;
+    font-weight:lighter;
+    
+}
+.buttondiscover{
+    display:flex;
+    background-color:#Ffff;
+    color:#FD8D3A;
+    border-radius:3px;
+    border-color: #FD8D3A;
+}
+.right{
+    display:flex;
+    image-resolution: 2px;
+    width: 785px;
+    height: 585px;
+}
+.bottom{
+font-size:1em;
+display:flex;
+justify-content: center;
+border:6px whitesmoke;
+
+}
+.buttonexplore{
+    display:flex;
+    background-color: #FA7436;
+    border-radius: 2px;
+    color:white;
+    font-size:1em;
+}
+.page2{
+    background-color: #F7F8FC;
+    width: 1920px;
+    height: 724px;
+    
+    
+}
+.topt{
+    display: flex;
+    justify-content: center;
+
+}
+.par{
+    display:flex;
+    justify-content: center;
+}
+.groups{
+    display:flex;
+    justify-content: center;
+    gap:2em
+    
+}
+.group{
+    background-color: #FFF8F5;
+    width: 370px;
+    height: 278px;
+}
+.group1{
+    background-color: #F5F9FF;
+    align-items:first baseline;
+width: 370px;
+height: 278px;}
+.group2{
+    background-color:#FFFAF0;
+width: 370px;
+height: 278px;}
+.page3{
+    background-color: #FEFCFB;
+    width: 1290px;
+    height: 960px;
+}
+.top3{
+    display:flex;
+    justify-content:center;
+}
+.para{
+    display:flex;
+    justify-content: center;
+}
+.groupimage{
+    display:flex;
+    justify-content:center;
+    gap: 15px;
+    width: 1170px;
+    height: 426px;
+}
+.sliderbtn{
+    display:flex;
+    justify-content:center;
+}
+.page4{
+   width:1920px;
+   height:893px;
+}
+.name{
+    display:flex;
+    justify-content: center;
+}
+.element1{
+    display:flex;
+    justify-content: right;
+}
+.parag{
+    display:flex;
+    justify-content:center;
+}
+.sliderbtnt{
+    display:flex;
+    justify-content: right;
+}
+.card
+{
+    display:flex;
+    justify-content:none;
+    width: 370px;
+    height: 447px;
+}
+.page5{
+    background-color: #F7F8FC;
+    width: 1920px;
+    height: 724px;
+}
+.aboutus{
+    display: flex;
+    justify-content: left;
+}
+.firstpar{
+    display:flex;
+    justify-content: left;
+}
+.right2{
+    display: flex;
+    justify-content: right;
+}
+.secondpar{
+    display: flex;
+    justify-content: right;
+}
+.page6{
+    background-color: #FEFCFB;
+    width: 1920px;
+    height: 805px;
+}
+.top6{
+    display: flex;
+    justify-content: center;
+}
+.ecards{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.slidert{
+    display: flex;
+    justify-content: center;
+}
+.page7{
+    background-color: #F7F8FC #999999 #666666 #FFFFFF;
+width: 1920px;
+height: 898px;
+}
+.topt{
+    background-color: #FA7436;
+    width: 1170px;
+    height: 416px;
+    display: flex;
+    justify-content: center;
+    color:#FFFFFF;
+}
+.trabook{
+width:254px;
+height: 176px;
+display: flex;
+justify-content:left;
+padding:
+}
+.company{
+    display: flex;
+    justify-content: center;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+}
+.more{
+    display: flex;
+    justify-content: center;
+
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+
+
+
