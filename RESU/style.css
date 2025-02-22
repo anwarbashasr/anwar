@@ -1,0 +1,76 @@
+header{
+    background-color: #FEFCFB;
+}
+.heading{
+    display:flex;
+    justify-content: center;
+    width:1170px;
+    height:114px;
+}
+.trabook{
+    display:flex;
+    justify-content:center;
+    padding: 20px;
+}
+.vector{
+    width: 19px;
+    height: 19px;
+}
+.menus{
+    display:flex;
+    justify-content:center;
+    padding: 20px;
+    width: 386px;
+    height: 24px;
+ gap: 32px;
+}
+.accounts{
+    display: flex;
+
+    padding: 20px;
+    gap: 32px;
+    }
+    .login{
+        color: #FD8D3A;
+    }
+    .signup{
+        background-color: #FA7436;
+        color:white;
+        margin: 160,50;
+        
+    }
+    .content{
+        display: flex;
+        justify-content: center;
+    }
+    .left{
+        display: flex;
+        justify-content: center;
+        width: 521px;
+        height: 486px;
+         }
+         .right{
+            display:flex;
+            justify-content: right;
+             border-image-width: 785px;
+            padding:left;
+         }
+        .fpfooter{
+            width: 841px;
+            height: 124px;
+            background-color:#FFFFFF;
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+            gap: 20px;
+        }
+        .explorenow{
+            background-color: #FD8D3A;
+            border-radius: 2px;
+            border-width: 20px;
+            color: #FFFFFF;
+
+        }
+    
+    
+    
